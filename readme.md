@@ -2,8 +2,8 @@
 Homework List
 ----
 - [x] [Exercise_01](https://github.com/CornChen/computational_physics_N2014301020026.git)<br>
-- [x] [Exercise_02](https://github.com/CornChen/computational_physics_N2014301020026/blob/master/chenyukun.py)<br>
-- [x] [Exercise_03](https://github.com/CornChen/computational_physics_N2014301020026/blob/master/Let's%20move!.py)<br>
+- [x] [Exercise_02：print myname](https://github.com/CornChen/computational_physics_N2014301020026/blob/master/chenyukun.py)<br>
+- [x] [Exercise_03:move myname && rotate the things you want to print](https://github.com/CornChen/computational_physics_N2014301020026/blob/master/Let's%20move!.py)<br>
 - [ ] [Exercise_04]()<br>
 - [ ] [Exercise_05]()<br>
 - [ ] [Exercise_06]()<br>
