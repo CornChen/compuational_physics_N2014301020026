@@ -8,7 +8,7 @@ Homework List
 - [x] [Exercise_05:cannon shell trajectories ignoring air](https://www.zybuluo.com/CornChen/note/534765)<br>
 - [x] [Exercise_06:Cannon trajectory when the target is at a different altitude and considering the air drag](https://www.zybuluo.com/CornChen/note/542177)<br>
 - [x] [Exercise_07:Calculate and compare the behavior of two identical pendulums](https://www.zybuluo.com/CornChen/note/550251)<br>
-- [ ] [Exercise_08]()<br>
+- [x] [Exercise_08:Calculate Poincare sections for the pendulums undergoing the period_doubling routes to chaos](https://www.zybuluo.com/CornChen/note/565842)<br>
 - [ ] [Exercise_09]()<br>
 - [ ] [Exercise_10]()<br>
 - [ ] [Exercise_11]()<br>
