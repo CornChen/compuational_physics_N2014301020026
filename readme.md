@@ -9,7 +9,7 @@ Homework List
 - [x] [Exercise_06:Cannon trajectory when the target is at a different altitude and considering the air drag](https://www.zybuluo.com/CornChen/note/542177)<br>
 - [x] [Exercise_07:Calculate and compare the behavior of two identical pendulums](https://www.zybuluo.com/CornChen/note/550251)<br>
 - [x] [Exercise_08:Ex3.18](https://www.zybuluo.com/CornChen/note/565842)<br>
-- [ ] [Exercise_09]()<br>
+- [x] [Exercise_09:Ex3.31-billiard on triangle](https://www.zybuluo.com/CornChen/note/573525)<br>
 - [ ] [Exercise_10]()<br>
 - [ ] [Exercise_11]()<br>
 - [ ] [Exercise_12]()<br>
