@@ -1,4 +1,4 @@
-# computational_physics_N2014301020026
+# 陈玉坤_computational_physics_N2014301020026
 Homework List
 ----
 - [x] [Exercise_01](https://github.com/CornChen/computational_physics_N2014301020026.git)<br>
@@ -10,7 +10,7 @@ Homework List
 - [x] [Exercise_07:Calculate and compare the behavior of two identical pendulums](https://www.zybuluo.com/CornChen/note/550251)<br>
 - [x] [Exercise_08:Ex3.18](https://www.zybuluo.com/CornChen/note/565842)<br>
 - [x] [Exercise_09:Ex3.31-billiard on triangle](https://www.zybuluo.com/CornChen/note/573525)<br>
-- [ ] [Exercise_10]()<br>
+- [x] [Exercise_10:Kepler's law for elliptical orbits](https://www.zybuluo.com/CornChen/note/581759)<br>
 - [ ] [Exercise_11]()<br>
 - [ ] [Exercise_12]()<br>
 - [ ] [Exercise_13]()<br>
