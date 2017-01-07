@@ -14,4 +14,4 @@ Homework List
 - [x] [Exercise_11:Ex4.20](https://www.zybuluo.com/CornChen/note/590544)<br>
 - [ ] [Exercise_12]()<br>
 - [x] [Exercise_13:Ex6.12](https://www.zybuluo.com/CornChen/note/605104)<br>
-- [x] [final_exercise](https://www.zybuluo.com/CornChen/note/625296)<br>
+- [x] [final_exercise:EX1.6](https://www.zybuluo.com/CornChen/note/625296)<br>
